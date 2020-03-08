@@ -1,0 +1,1 @@
+AuvPowerSupply48V
