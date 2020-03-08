@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ps_auv_dcdc)(type KiCad)(uri ${KIPRJMOD}/ps_auv_dcdc.pretty)(options "")(descr ""))
+)
